@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="hitThis" size="4.000000 4.000000" />
+    <ImageTarget name="oneHole" size="4.000000 4.000000" />
+    <ImageTarget name="hammerpl2" size="4.000000 4.000000" />
+    <ImageTarget name="hammerp1" size="4.000000 4.000000" />
+    <ImageTarget name="onemole" size="4.000000 4.000000" />
+    <ImageTarget name="gameboard" size="4.000000 4.000000" />
+    <ImageTarget name="S" size="4.000000 4.030000" />
+    <ImageTarget name="golfinho" size="4.000000 4.000000" />
+    <ImageTarget name="arvore" size="4.000000 4.050000" />
+    <ImageTarget name="casa" size="4.000000 3.890000" />
+    <ImageTarget name="HIRO" size="5.000000 4.328969" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 21e160685f890cd478550c12133d1c24
+timeCreated: 1508247638
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: mo
+    100004: mo_acceLA_J
+    100006: mo_acceLB_J
+    100008: mo_acceRA_J
+    100010: mo_acceRB_J
+    100012: mo_agoue_j
+    100014: mo_ashiLA_j
+    100016: mo_ashiLB_j
+    100018: mo_ashiLC_j
+    100020: mo_ashiRA_j
+    100022: mo_ashiRB_j
+    100024: mo_ashiRC_j
+    100026: mo_CENTER
+    100028: mo_dokuro_J
+    100030: mo_hana_j
+    100032: mo_hara_j
+    100034: mo_hizL_j
+    100036: mo_hizR_j
+    100038: mo_jawA_j
+    100040: mo_jawB_j
+    100042: mo_jawC_j
+    100044: mo_kao_j
+    100046: mo_kataL_J
+    100048: mo_kataR_j
+    100050: mo_kokaL_j
+    100052: mo_kokaR_j
+    100054: mo_koshi_j
+    100056: mo_kubi_j
+    100058: mo_mimiLA_J
+    100060: mo_mimiLB_J
+    100062: mo_mimiRA_J
+    100064: mo_mimiRB_J
+    100066: mo_mo_body
+    100068: mo_mo_yari
+    100070: mo_mune_j
+    100072: mo_oA_j
+    100074: mo_oB_j
+    100076: mo_oC_j
+    100078: mo_oyubiL_j
+    100080: mo_oyubiR_j
+    100082: mo_tarako_j
+    100084: mo_teL_j
+    100086: mo_teR_j
+    100088: mo_udeLA_j
+    100090: mo_udeLB_j
+    100092: mo_udeRA_j
+    100094: mo_udeRB_j
+    100096: mo_yari_j
+    100098: mo_yubiLA_j
+    100100: mo_yubiLB_j
+    100102: mo_yubiRA_j
+    100104: mo_yubiRB_j
+    100106: Point001
+    400000: //RootNode
+    400002: mo
+    400004: mo_acceLA_J
+    400006: mo_acceLB_J
+    400008: mo_acceRA_J
+    400010: mo_acceRB_J
+    400012: mo_agoue_j
+    400014: mo_ashiLA_j
+    400016: mo_ashiLB_j
+    400018: mo_ashiLC_j
+    400020: mo_ashiRA_j
+    400022: mo_ashiRB_j
+    400024: mo_ashiRC_j
+    400026: mo_CENTER
+    400028: mo_dokuro_J
+    400030: mo_hana_j
+    400032: mo_hara_j
+    400034: mo_hizL_j
+    400036: mo_hizR_j
+    400038: mo_jawA_j
+    400040: mo_jawB_j
+    400042: mo_jawC_j
+    400044: mo_kao_j
+    400046: mo_kataL_J
+    400048: mo_kataR_j
+    400050: mo_kokaL_j
+    400052: mo_kokaR_j
+    400054: mo_koshi_j
+    400056: mo_kubi_j
+    400058: mo_mimiLA_J
+    400060: mo_mimiLB_J
+    400062: mo_mimiRA_J
+    400064: mo_mimiRB_J
+    400066: mo_mo_body
+    400068: mo_mo_yari
+    400070: mo_mune_j
+    400072: mo_oA_j
+    400074: mo_oB_j
+    400076: mo_oC_j
+    400078: mo_oyubiL_j
+    400080: mo_oyubiR_j
+    400082: mo_tarako_j
+    400084: mo_teL_j
+    400086: mo_teR_j
+    400088: mo_udeLA_j
+    400090: mo_udeLB_j
+    400092: mo_udeRA_j
+    400094: mo_udeRB_j
+    400096: mo_yari_j
+    400098: mo_yubiLA_j
+    400100: mo_yubiLB_j
+    400102: mo_yubiRA_j
+    400104: mo_yubiRB_j
+    400106: Point001
+    4300000: mo
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: mo
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mo_e1
+    second: {fileID: 2100000, guid: 1bbcc610caf480041b6d795687d724c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mo_e1(2)
+    second: {fileID: 2100000, guid: 1bbcc610caf480041b6d795687d724c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mo_eye1
+    second: {fileID: 2100000, guid: e9a64f8158588d44f90c7d026aa24c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mo_hada1
+    second: {fileID: 2100000, guid: 1bbcc610caf480041b6d795687d724c2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
